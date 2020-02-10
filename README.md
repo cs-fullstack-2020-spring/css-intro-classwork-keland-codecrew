@@ -1,5 +1,6 @@
 # CSS Intro to Selectors and Box Model
-
+#### Make sure you are in the correct repo directory (folder) before you start an assignment
+#### Score : 0/5
 ### Exercise 1:
 
 Create a new HTML file called ```problem1_cw.html```, and copy the code below into the ```<body>``` of your HTML file. 
